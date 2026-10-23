@@ -3,7 +3,7 @@
 **Sistema de Monitoramento Inteligente de Vegetação Rodoviária**
 
 > FIAP — Challenge Motiva  
-> Documentação consolidada — Sprint 3 e Sprint 4  
+> Documentação consolidada — Sprint 4  
 > Aplicativo mobile desenvolvido com React Native, Expo e TypeScript
 
 ---
